@@ -1,2 +1,2 @@
-# Data Structure And Algorithm-MiniProject
-Canteen Billing System by using various Data Structures(Linked List, Arrays etc)
+# Canteen Billing System 🖥
+Canteen Billing System by using Linked List and Hash Table Data Structures to make system robust and computationally faster 🚀🚀🚀
